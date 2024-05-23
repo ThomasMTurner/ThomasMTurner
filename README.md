@@ -2,9 +2,13 @@
 
 $$\lambda f.(\lambda x.(f(x \ x)) \lambda x.(f(x \ x)))$$
 
-No, seriously. My name is Thomas Turner, and I am a Computer Science student at the University of Bath.
+No, seriously. My name is Thomas Turner, and I am a first year Computer Science student at the University of Bath.
 
-Furthermor,I am also a hobbyist technical writer in both technology & software engineering, as well as philosophy & cutting edge science (i.e. the hard problem of consciousness, geometric deep learning, theoretical physics).
+My future aspirations sit in the cross-section between ML engineering, backend software development & deep learning research. In my spare time, I have built and am in progress of building many multi-faceted professional full stack applications (ML + frontend + backend), requiring a lot of independent research, i.e. a search engine, microkernel, social media application to connect with an open source digital library, and so forth. Programming is also a hobby for me and I am in development of a few projects which are yet to be publicised, i.e. I am a geometry enthusiast self-studying topology & differential geometry and wanted to build a "topological rendering pipeline" which would enable me to visualise complex datasets and generate the perspective of an observer living in one of these strange spaces (inspired by CodeParade, developer of 4D Golf). 
+
+I am particularly interested in applying novel techniques in AI to distributed systems, this is the current work I am doing as an intern in the Futures sector of Roke Manor Research. Aspirationally, I wish to pursue the cutting edge of artificial intelligence research, i.e. geometric deep learning, categorical deep learning and quantum machine learning. These three topics in particular have pre-requisites beyond a standard Computer Science course, and hence I am learning these independently (mostly foundational mathematics).
+
+Furthermore, I am a hobbyist technical writer in both technology & software engineering, as well as philosophy & cutting edge science (i.e. the hard problem of consciousness, theoretical physics). My SubStack profile is (), both of my main publications are there.
 
  
 ## Github Statistics
