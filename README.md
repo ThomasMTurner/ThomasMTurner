@@ -1,10 +1,8 @@
 ## Who am I?
 
- ```haskell
-newtype Mu a = Mu (Mu a -> a)
-y :: (a -> a) -> a
-y f = (\h -> h $ Mu h) (\x -> f. (\(Mu g) -> g) x $ x)
-```
+$$
+\lambda_{5}
+$$
 
 No, seriously. My name is Thomas Turner, and I am a Computer Science student at the University of Bath.
 
