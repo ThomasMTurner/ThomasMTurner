@@ -1,6 +1,6 @@
 ## About Me
 
-$$\lambda f.(\lambda x.(f(x \ x)) \lambda x.(f(x \ x)))$$
+$$Me = \lambda f.(\lambda x.(f(x \ x)) \lambda x.(f(x \ x)))$$
 
 ***Russell's Paradox Intensifies*** 
 
