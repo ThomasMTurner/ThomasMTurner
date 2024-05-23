@@ -1,6 +1,6 @@
 ## About Me
 
-$$Y = \lambda f.(\lambda x.(f(x \ x)) \lambda x.(f(x \ x)))$$
+$$I = \lambda f.(\lambda x.(f(x \ x)) \lambda x.(f(x \ x)))$$
 
 ***Russell's Paradox Intensifies*** 
 
