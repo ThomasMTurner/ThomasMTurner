@@ -1,12 +1,10 @@
 ## Who am I?
 
-$$
-\lambda_{5}
-$$
+$$Y = \lambda f. (\lambda x. fx)(\lambda x. fx)$$
 
 No, seriously. My name is Thomas Turner, and I am a Computer Science student at the University of Bath.
 
-I am also a hobbyist technical writer in both technology & software, as well as philosophy & cutting edge science (i.e. hard problem of consciousness, geometric deep learning, theoretical physics).
+Furthermor,I am also a hobbyist technical writer in both technology & software engineering, as well as philosophy & cutting edge science (i.e. the hard problem of consciousness, geometric deep learning, theoretical physics).
 
  
 ## Github Statistics
