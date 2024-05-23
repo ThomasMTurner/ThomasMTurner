@@ -1,6 +1,6 @@
 ## About Me
 
-$$\textbf{Me}(f \ x) = \lambda f.(\lambda x.(f(x \ x)) \lambda x.(f(x \ x)))$$
+$$Y = \lambda f.(\lambda x.(f(x \ x)) \lambda x.(f(x \ x)))$$
 
 ***Russell's Paradox Intensifies*** 
 
