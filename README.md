@@ -1,6 +1,6 @@
 ## Who am I?
 
-$$Y = \lambda f. (\lambda x. fx)(\lambda x. fx)$$
+$$\lambdaf.(\lambdax.(f(x \ x)) \lambdax.(f(x x)))$$
 
 No, seriously. My name is Thomas Turner, and I am a Computer Science student at the University of Bath.
 
