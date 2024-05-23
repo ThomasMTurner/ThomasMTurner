@@ -1,6 +1,6 @@
 ## Who am I?
 
-$$\lambdaf.(\lambdax.(f(x \ x)) \lambdax.(f(x x)))$$
+$$\lambda f.(\lambda x.(f(x \ x)) \lambda x.(f(x x)))$$
 
 No, seriously. My name is Thomas Turner, and I am a Computer Science student at the University of Bath.
 
