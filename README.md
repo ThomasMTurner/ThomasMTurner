@@ -1,6 +1,8 @@
-## Who am I?
+## About Me
 
 $$\lambda f.(\lambda x.(f(x \ x)) \lambda x.(f(x \ x)))$$
+
+**Russell's Paradox Intensifies** 
 
 No, seriously. My name is Thomas Turner, and I am a first year Computer Science student at the University of Bath.
 
