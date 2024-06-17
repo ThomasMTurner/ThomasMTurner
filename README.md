@@ -17,7 +17,7 @@ Furthermore, I am a hobbyist technical writer in both technology & software engi
 
 <img src="https://github-readme-stats.vercel.app/api?username=ThomasMTurner&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasMTurner&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasMTurner&layout=compact&theme=github_dark"/>|
+
 
 ## Programming Languages
 
@@ -43,7 +43,6 @@ Furthermore, I am a hobbyist technical writer in both technology & software engi
 (Note to self) replace Kali with Asahi Linux.
 
 <p>
-	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
 	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></a>
 </p>
 
