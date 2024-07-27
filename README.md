@@ -6,9 +6,9 @@ $$I = \lambda f.(\lambda x.(f(x \ x)) \lambda x.(f(x \ x)))$$
 
 No, seriously. My name is Thomas Turner, and I am a first year Computer Science student at the University of Bath.
 
-My future career goals sit in the cross-section between ML engineering, backend software development & AI research. In my spare time, I have built and am in progress of building many multi-faceted professional full stack applications (ML + frontend + backend), requiring a lot of independent research, i.e. a search engine, microkernel, social media application to connect with an open source digital library, and so forth. 
+My future career goals sit in the cross-section between ML engineering, backend software development & AI research. In my spare time, I have built and am in progress of building many multi-faceted professional full stack applications (ML & frontend & backend), requiring a lot of independent research, i.e. a search engine, microkernel, full stack portfolio web application, quantum circuit emulator and customisable NLP and chatbot framework.
 
-Currently, I am working as a software engineer intern in the Futures sector of Roke Manor Research, working on both synthetic data generation & object detection. 
+Currently, I am working as a ML software engineer intern in the Futures sector of Roke Manor Research, working on synthetic data generation & object detection. 
 
 Furthermore, I am a hobbyist technical writer in both technology & software engineering, as well as philosophy & cutting edge science (i.e. the hard problem of consciousness, theoretical physics). My SubStack profile is (), both of my main publications are there.
 
