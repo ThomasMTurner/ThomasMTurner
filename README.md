@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Thomas Turner, and I am a first year Computer Science student at the University of Bath.
+My name is Thomas Turner, and I am a second year Computer Science student at the University of Bath.
 
 My future career goals sit in the cross-section between ML engineering, backend software development & AI research. In my spare time, I have built and am in progress of building many multi-faceted professional full stack applications (ML & frontend & backend), requiring a lot of independent research, i.e. a search engine, microkernel, full stack portfolio web application, quantum circuit emulator and GPU-accelerated machine learning library.
 
