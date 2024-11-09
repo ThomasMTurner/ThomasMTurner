@@ -1,12 +1,12 @@
 ## About Me
 
-My name is Thomas Turner, and I am a second year Computer Science student at the University of Bath.
+My name is Thomas Turner, and I am a second year Computer Science student at the University of Bath. My future career goals sit in the cross-section between ML engineering, backend software development & AI research. 
 
-My future career goals sit in the cross-section between ML engineering, backend software development & AI research. In my spare time, I have built and am in progress of building many multi-faceted professional full stack applications (ML & frontend & backend), requiring a lot of independent research, i.e. a search engine, microkernel, full stack portfolio web application, quantum circuit emulator and GPU-accelerated machine learning library.
+In some of my spare time, I have built and am in progress of building many multi-faceted professional full stack applications (ML & frontend & backend), requiring a lot of independent research, i.e. a search engine, GPU-accelerated machine learning library, microkernel, full stack portfolio web application, quantum circuit emulator.
 
-Currently, I am working as a ML software engineer intern in the Futures sector of Roke Manor Research, working on synthetic data generation & object detection. 
+Most recently, I worked as a ML software engineer intern in the Futures sector of Roke Manor Research, working on synthetic data generation & object detection. 
 
-Furthermore, I am a hobbyist technical writer in both technology & software engineering, as well as philosophy & cutting edge science (i.e. the hard problem of consciousness, theoretical physics). My SubStack profile is (), both of my main publications are there.
+Furthermore, I am a hobbyist technical writer in both technology & software engineering, as well as philosophy & cutting edge science (i.e. the hard problem of consciousness, theoretical physics). My SubStack profile is (https://substack.com/@mycer?utm_source=user-menu), both of my main publications are there.
 
  
 ## Github Statistics
