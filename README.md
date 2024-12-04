@@ -1,12 +1,8 @@
 ## About Me
 
-My name is Thomas Turner, and I am a second year Computer Science student at the University of Bath. My future career goals sit in the cross-section between ML engineering, backend software development & AI research. 
+My name is Thomas Turner, and I am a second year Computer Science student at the University of Bath. My future career goals sit in the cross-section between ML engineering and research, alongside backend software development. In some of my spare time, I have built and am in progress of building many technically involved personal projects, requiring a lot of independent research, i.e. a search engine, GPU-accelerated machine learning library, microkernel, full-stack portfolio web application and quantum circuit emulator.
 
-In some of my spare time, I have built and am in progress of building many multi-faceted professional full stack applications (ML & frontend & backend), requiring a lot of independent research, i.e. a search engine, GPU-accelerated machine learning library, microkernel, full stack portfolio web application, quantum circuit emulator.
-
-Most recently, I worked as a ML software engineer intern in the Futures sector of Roke Manor Research, working on synthetic data generation & object detection. 
-
-Furthermore, I am a hobbyist technical writer in both technology & software engineering, as well as philosophy & cutting edge science (i.e. the hard problem of consciousness, theoretical physics). My SubStack profile is (https://substack.com/@mycer?utm_source=user-menu), both of my main publications are there.
+In my latest work experience, I worked as a ML software engineer intern in the Futures sector of Roke Manor Research, working on synthetic data generation and object detection. Furthermore, I am a hobbyist technical writer in both technology and software engineering, as well as philosophy. My SubStack profile is (https://substack.com/@mycer?utm_source=user-menu), both of my main publications are there.
 
  
 ## Github Statistics
